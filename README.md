@@ -14,3 +14,5 @@ SeriesSum(1) => 1 = "1.00"
 SeriesSum(2) => 1 + 1/4 = "1.25"
 SeriesSum(5) => 1 + 1/4 + 1/7 + 1/10 + 1/13 = "1.57"
 NOTE: In PHP the function is called series_sum().
+
+Source: http://www.codewars.com/kata/555eded1ad94b00403000071/train/python
